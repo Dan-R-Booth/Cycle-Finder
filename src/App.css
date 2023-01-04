@@ -1,0 +1,37 @@
+#distanceHeader {
+  cursor: pointer;
+}
+
+#freeBikesHeader {
+  cursor: pointer;
+}
+
+#lastUpdatedHeader {
+  cursor: pointer;
+}
+
+#latitudeBox {
+  height: fit-content;
+  width: 125px;
+}
+
+#longitudeBox {
+  height: fit-content;
+  width: 125px;
+}
+
+#numStationsBox {
+  height: fit-content;
+  width: 70px;
+}
+
+#minBikesBox {
+  height: fit-content;
+  width: 60px;
+}
+
+.form-select {
+  min-width: 157px;
+  max-width: fit-content;
+  cursor: pointer;
+}
